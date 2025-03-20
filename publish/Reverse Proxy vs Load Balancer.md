@@ -1,0 +1,2 @@
+#### Are Reverse Proxy and Load Balancer Similar?
+>Though both terminologies sound similar, a reverse proxy accepts requests from clients and forwards the request to servers for the actual processing.  The reverse proxy relays the results from servers to the client.  A [[Load Balancer|load balancer]] distributes client requests among a group of backend servers and then relays the response from the selected server to the appropriate client.

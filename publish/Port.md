@@ -1,8 +1,8 @@
 ## What is a port?
 
-> - A [[Port]] is like a door on your computer or server.
+> - A [[remote/publish/Port]] is like a door on your computer or server.
 >     
-> - Each [[Port]] has a unique number (e.g., 80, 8080, 3306).
+> - Each [[remote/publish/Port]] has a unique number (e.g., 80, 8080, 3306).
 >     
 > - Ports are used to allow communication between applications or services.
 > 	
@@ -11,8 +11,8 @@
 
 #### **How port being managed?**
 port can be managed with
->1. [[Port Mapping]]
->2. [[Port Listening]]
+>1. [[remote/publish/Port Mapping]]
+>2. [[remote/publish/Port Listening]]
 
  ### **How do you check a port?**
-> you can do it with [[Port Checking|port checking]]
+> you can do it with [[remote/publish/Port Checking|port checking]]
