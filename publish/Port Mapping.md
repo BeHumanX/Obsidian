@@ -2,7 +2,7 @@
 > Port mapping connects a port on your host machine (your computer) to a port inside a [[Container]]. It’s like connecting a door in your house to a door in a small house inside it (the container).
 
 ### the visualization
-![[remote/publish/Pasted image 20250315015306.png]]
+![[Pasted image 20250315015306.png]]
 ### So...
 here's an example of port mapping in [[Docker]]-compose.yaml
 ```

@@ -2,7 +2,7 @@
 GraphQL is a new API standard that enables **declarative data fetching** and being used as alternative to **REST API** . GraphQL only expose a **single endpoint** and responds to **queries**
 
 Visualization
-![[remote/publish/Pasted image 20250317163318.png]]
+![[Pasted image 20250317163318.png]]
 
 #### **GraphQL fetch everything in a single request.**   
 Here's and example:
