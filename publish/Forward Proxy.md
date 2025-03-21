@@ -1,0 +1,2 @@
+### What is Forward Proxy?
+> A forward proxy sits in front of clients and is used to get data to groups of users within an internal network. When a request is sent, the proxy examines it to decide whether it should proceed with making a connection
