@@ -22,3 +22,5 @@ here's are the workflows:
 [^4]: `git push` to update the remote repository
 [^5]: `git pull` to switch branch
 
+#### How do you setup SSH for github?
+You can setup SSH for Github with [[GitHub SSH]]
